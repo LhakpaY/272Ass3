@@ -5,6 +5,7 @@ namespace _272Ass3.Models
     {
         public Organiser()
         {
+            Role = "organiser";
         }
     }
 }
